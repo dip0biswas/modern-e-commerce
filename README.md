@@ -28,9 +28,6 @@ A stunning e-commerce website featuring WebGL-powered animated gradient backgrou
 ### Installation
 
 1. **Clone or navigate to the project directory**
-   ```bash
-   cd "c:\Users\uttkarsh raj\OneDrive\Desktop\E-commerce"
-   ```
 
 2. **Install dependencies**
    ```bash

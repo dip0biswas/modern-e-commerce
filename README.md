@@ -1,5 +1,5 @@
 # NeonShop - Modern E-commerce with ShaderGradient Background
-
+#Live - https://eneonshop.netlify.app/
 A stunning e-commerce website featuring WebGL-powered animated gradient backgrounds inspired by shadergradient.co, built with Next.js, React, and Three.js.
 
 ![NeonShop](https://img.shields.io/badge/Next.js-14.0-black?style=for-the-badge&logo=next.js)
